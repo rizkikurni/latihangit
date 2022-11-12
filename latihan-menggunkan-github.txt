@@ -1,1 +1,2 @@
 commit adalah kumpulan histori yang pernah kita buat
+ini edit kedua
